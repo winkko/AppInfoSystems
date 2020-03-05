@@ -40,4 +40,31 @@
 		<nature>org.jboss.tools.cdi.core.cdinature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/index.jsp</name>
+			<type>1</type>
+			<location>E:/index.jsp</location>
+		</link>
+		<link>
+			<name>WebContent/statics/jsp/backend</name>
+			<type>2</type>
+			<location>C:/Users/Administrator/AppData/Local/Temp/HZ$D.698.2574/backend</location>
+		</link>
+		<link>
+			<name>WebContent/statics/jsp/backendlogin.jsp</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/AppData/Local/Temp/HZ$D.698.2574/backendlogin.jsp</location>
+		</link>
+		<link>
+			<name>WebContent/statics/jsp/developer</name>
+			<type>2</type>
+			<location>C:/Users/Administrator/AppData/Local/Temp/HZ$D.698.2574/developer</location>
+		</link>
+		<link>
+			<name>WebContent/statics/jsp/devlogin.jsp</name>
+			<type>1</type>
+			<location>C:/Users/Administrator/AppData/Local/Temp/HZ$D.698.2574/devlogin.jsp</location>
+		</link>
+	</linkedResources>
 </projectDescription>
